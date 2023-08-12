@@ -16,7 +16,7 @@ SonjaGorin.github.io/Challenge-01
 
 To preview the Horiseon Webpage click on the link bellow.
 
-![Horiseon-Webpage-Screenshot](assets/images/Horiseon-Webpage-Screenshot.png)
+![Horiseon-Webpage-Screenshot](assets/images/horiseon-webpage-screenshot.png)
 
 ## Credits
 
