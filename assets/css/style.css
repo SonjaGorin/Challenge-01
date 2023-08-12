@@ -20,6 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* Changing color of the letters SEO in word Horiseon */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -41,13 +42,10 @@ header section ul li {
     margin-left: 25px;
 }
 
+/* Setin color and removing underline of links */
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .marketing-meeting-picture {
@@ -56,6 +54,10 @@ p {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+}
+
+p {
+    font-size: 16px;
 }
 
 .content {
@@ -119,6 +121,7 @@ p {
     max-width: 150px;
 }
 
+/* Setting footer display too none will hide the footer from the users */
 footer {
     padding: 30px;
     clear: both;
