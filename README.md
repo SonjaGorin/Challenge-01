@@ -12,9 +12,9 @@ N/A
 
 To view and use the Horiseon webpage you can click on a link bellow. It will provide you with basic information about the company.
 
-SonjaGorin.github.io/Challenge-01
+[Horiseon-Webpage](sonjagorin.github.io/Challenge-01)
 
-To preview the Horiseon Webpage click on the link bellow.
+Page preview:
 
 ![Horiseon-Webpage-Screenshot](assets/images/horiseon-webpage-screenshot.png)
 
